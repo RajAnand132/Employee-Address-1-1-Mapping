@@ -1,6 +1,6 @@
 # Employee and Address Management
 
-This Spring Boot application provides APIs to manage Employee and Address entities in a database. The Employee and Address Management API is a Spring Boot application designed to facilitate the management of employee and address records. This project offers a RESTful API with endpoints for creating, reading, updating, and deleting employee and address information.
+This Spring Boot application provides APIs to manage Employee and Address entities in a database.This Spring Boot application designed to facilitate the management of employee and address records. This project offers a RESTful API with endpoints for creating, reading, updating, and deleting employee and address information.
 
 ## Purpose
 
